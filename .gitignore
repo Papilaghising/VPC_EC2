@@ -1,0 +1,4 @@
+# Ignore .tfstate files within the VPC folder
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
